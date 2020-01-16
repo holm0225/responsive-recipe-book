@@ -1,0 +1,88 @@
+html {
+
+font-family: ff-more-web-pro, serif;
+font-weight: 700;
+font-style: normal;
+
+font-family: ff-more-web-pro, serif;
+font-weight: 400;
+font-style: normal;
+
+font-family: fira-sans, sans-serif;
+font-weight: 500;
+font-style: normal;
+
+font-family: fira-sans, sans-serif;
+font-weight: 700;
+font-style: normal;
+
+font-family: fira-sans, sans-serif;
+font-weight: 800;
+font-style: normal;
+
+font-family: fira-sans, sans-serif;
+font-weight: 900;
+font-style: normal;
+
+font-family: fira-sans, sans-serif;
+font-weight: 600;
+font-style: normal;
+
+}
+
+.sans {
+  font-family: fira-sans, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.serif {
+  font-family: ff-more-web-pro, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.intro {
+  border-top: 2px solid #e2e2e2;
+  border-bottom: 2px solid #e2e2e2;
+}
+
+.btn-ghost {
+  color: #005e76;
+  border-color: #8bc9d9;
+  border-width: 2px;
+}
+
+.btn-ghost:hover {
+  color: #005e76;
+  background-color: #8bc9d9;
+  border-color: #0084a6;
+  border-width: 2px;
+}
+
+.nav a {
+  display: block;
+  text-decoration: none;
+  color: #005e76;
+  border-bottom: 2px solid #8bc9d9;
+}
+
+.nav a:hover {
+  color: #000;
+}
+
+footer {
+  border-top: 2px solid #e2e2e2;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .right {
+    text-align: right;
+  }
+
+  .left {
+    text-align: left;
+  }
+
+}
