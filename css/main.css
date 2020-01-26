@@ -54,6 +54,12 @@ font-style: normal;
   font-style: normal;
 }
 
+.prep {
+  font-family: fira-sans, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
 .intro {
   border-top: 2px solid #e2e2e2;
   border-bottom: 2px solid #e2e2e2;
