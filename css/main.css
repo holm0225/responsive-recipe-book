@@ -32,7 +32,7 @@ font-style: normal;
 
 .sans {
   font-family: fira-sans, sans-serif;
-  font-weight: 700;
+  font-weight: 600;
   font-style: normal;
 }
 
@@ -42,29 +42,41 @@ font-style: normal;
   font-style: normal;
 }
 
+.ultra {
+  font-family: fira-sans, sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.extra {
+  font-family: fira-sans, sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
 .intro {
   border-top: 2px solid #e2e2e2;
   border-bottom: 2px solid #e2e2e2;
 }
 
 .btn-ghost {
-  color: #005e76;
-  border-color: #8bc9d9;
+  color: #871c21;
+  border-color: #9e0000;
   border-width: 2px;
 }
 
 .btn-ghost:hover {
-  color: #005e76;
-  background-color: #8bc9d9;
-  border-color: #0084a6;
+  color: #fff;
+  background-color: #871c21;
+  border-color: #9e0000;
   border-width: 2px;
 }
 
 .nav a {
   display: block;
   text-decoration: none;
-  color: #005e76;
-  border-bottom: 2px solid #8bc9d9;
+  color: #871c21;
+  border-bottom: 2px solid #9e0000;
 }
 
 .nav a:hover {
@@ -73,6 +85,10 @@ font-style: normal;
 
 footer {
   border-top: 2px solid #e2e2e2;
+}
+
+@media only screen and (min-width: 38em) {
+
 }
 
 @media only screen and (min-width: 60em) {
