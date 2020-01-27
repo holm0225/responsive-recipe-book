@@ -27,7 +27,6 @@ font-style: normal;
 font-family: fira-sans, sans-serif;
 font-weight: 600;
 font-style: normal;
-
 }
 
 .sans {
@@ -91,10 +90,6 @@ font-style: normal;
 
 footer {
   border-top: 2px solid #e2e2e2;
-}
-
-@media only screen and (min-width: 38em) {
-
 }
 
 @media only screen and (min-width: 60em) {
