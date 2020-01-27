@@ -11,7 +11,7 @@ html {
 
 .serif {
   font-family: ff-more-web-pro, serif;
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
 }
 
@@ -29,7 +29,7 @@ html {
 
 .prep {
   font-family: fira-sans, sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   font-style: normal;
 }
 
