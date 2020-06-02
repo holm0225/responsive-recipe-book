@@ -51,6 +51,10 @@ html {
   border-width: 2px;
 }
 
+.super {
+  color: #871c21;
+}
+
 .nav a {
   display: block;
   text-decoration: none;
